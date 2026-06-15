@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect fill="#f1f5f9" width="960" height="540" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="480" y="260" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="18" font-weight="600">Screenshot placeholder</text>
+  <text x="480" y="290" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="14">EDR Dashboard  Events tab</text>
+  <text x="480" y="320" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">Replace with dashboard-events.png</text>
+</svg>
